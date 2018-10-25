@@ -39,7 +39,8 @@
   },
   "dependencies": {
     "nan": "^2.12.1",
-    "node-loader": "^0.6.0"
+    "node-loader": "^0.6.0",
+    "native-ext-loader": "^2.2.0"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
