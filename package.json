@@ -40,7 +40,8 @@
   "dependencies": {
     "nan": "^2.12.1",
     "node-loader": "^0.6.0",
-    "native-ext-loader": "^2.2.0"
+    "native-ext-loader": "^2.2.0",
+    "node-addon-loader": "^0.0.6"
   },
   "devDependencies": {
     "mocha": "^5.2.0",
